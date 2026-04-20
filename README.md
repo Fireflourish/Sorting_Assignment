@@ -1,5 +1,5 @@
 # Sorting Algorithm Performance Analysis
-**Author:** Ariel kellum 207064494,
+**Authors:** Ariel kellum 207064494,
             David Vaisfeld 208897645
 
 ## Project Overview
