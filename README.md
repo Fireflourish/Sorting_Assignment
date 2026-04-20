@@ -17,7 +17,7 @@ The experiment is run via the command line. Open your terminal in the project fo
 * `-r`: Number of repetitions to average the execution time
 
 note: the line used to create the resulting images was
-'python run_experiments.py -a 1 3 5 -s 100 500 1000 1500 2000 2500 3000 3500 4000 4500 5000 -e 1 -r 15' 
+`python run_experiments.py -a 1 3 5 -s 100 500 1000 1500 2000 2500 3000 3500 4000 4500 5000 -e 1 -r 15`
 
 ---
 
